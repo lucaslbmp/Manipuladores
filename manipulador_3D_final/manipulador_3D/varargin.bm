@@ -1,0 +1,19 @@
+% Do input processing here...The following is just an example
+filename='';
+if ~nargin
+
+%	[filename,root]=uigetfile('*.bin','Select Input BIN File',['default_dir',filesep]);
+%	if isnumeric(filename)
+%		fprintf('Selection cancelled by user.\n');
+%		return;
+%	end
+
+elseif nargin==1
+
+%	[root,filename,ext]=fileparts(varargin{1});
+%	filename=[filename,ext];
+%	clear ext;
+
+else
+
+end

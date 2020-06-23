@@ -1,0 +1,9 @@
+	function activate_callbacks()
+		hands=struct2cell(handles);
+		for i=1:length(hands)
+			if ~any(strcmpi(get(hands{i},'type'),{'figure','axes','uipanel','text'})) && ...
+					~isempty(get(hands{i},'callback'))
+				set(hands{i},'callback',eval(get(hands{i},'callback')));
+			end	
+		end
+	end

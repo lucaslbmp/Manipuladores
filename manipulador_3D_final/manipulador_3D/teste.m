@@ -1,0 +1,11 @@
+figure(2);
+view(3);
+x_now=0;
+y_now=0;
+z_now=0;
+x_next=-0.5;
+y_next=0.5;
+z_next=1.5;
+grid on; box on; axis equal; axis([-lim lim -lim lim -lim lim]);
+Cylinder([x_now,y_now,z_now],[x_next,y_next,z_next],0.25,20,[0.2,0.7,0.7],1,0);
+CylinderJ([x_now,y_now,z_now],[x_next,y_next,z_next],0.5,20,[0.7,0.7,0.7],1,0,2);
