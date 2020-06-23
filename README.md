@@ -27,3 +27,12 @@ a: comprimento da normal comum.
 &#945;: ângulo em torno da normal comum, do eixo z anterior ao eixo z atual.
 
 Em seguida, pede-se ao usuário que sejam adicionados de dois a cinco pontos (de forma que cada ponto corresponde a um conjunto de posições de juntas) indicando as posições entre as quais o manipulador irá transitar durante sua movimentação. Para cada posição, pode-se modificar os parãmetros de cada junta - que correpondem ao deslocamento linear da haste ou seu deslocamento angular, a depender do tipo de junta -, observando o resultado da mudança na figura. Ao se estabelecer a posição desejada, o usuário deve clicar em "Adicionar Ponto", e então proceder da mesma forma para as posições seguintes. A opção "Remover Ponto" pode ser usada para remover o último ponto caso necessário. A partir do segundo ponto adicionado, o usuário pode clicar em "Simular" e observar a animação da movimentação do manipulador entre os pontos escolhidos bem como a linha de trajetória da sua extremidade. 
+
+## Referências
+
+Sean Little (2020). GUIDE with nested callbacks (https://www.mathworks.com/matlabcentral/fileexchange/24127-guide-with-nested-callbacks), MATLAB Central File Exchange. Retrieved June 23, 2020.
+
+J. Divahar (2020). Cylinder (https://www.mathworks.com/matlabcentral/fileexchange/13995-cylinder), MATLAB Central File Exchange. Retrieved June 23, 2020.
+
+Peter (PB) Bodin (2020). BUBBLEPLOT3 (https://www.mathworks.com/matlabcentral/fileexchange/8231-bubbleplot3), MATLAB Central File Exchange. Retrieved June 23, 2020
+
