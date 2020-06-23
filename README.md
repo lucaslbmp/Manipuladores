@@ -1,4 +1,4 @@
-# Simulacao-3D-de-manipuladores-em-MATLAB
+# Simulador 3D de manipuladores em MATLAB
 
 Projeto desenvolvido no âmbito da disciplina de Fundamentos de Robótica do curso de Engenharia de Instrumentação, Automação e Robótica da Universidade Federal do ABC (UFABC), ministrada pelo prof. Dr. Sandro L. Vatanabe, junto de meus colegas Gilmar J. Correa e Ana Laura B. Claudio. 
 
