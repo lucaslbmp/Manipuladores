@@ -1,6 +1,6 @@
 # Simulador 3D de manipuladores em MATLAB
 
-Projeto desenvolvido no âmbito da disciplina de Fundamentos de Robótica do curso de Engenharia de Instrumentação, Automação e Robótica da Universidade Federal do ABC (UFABC), ministrada pelo prof. Dr. Sandro L. Vatanabe, junto de meus colegas Gilmar J. Correa e Ana Laura B. Claudio. 
+Projeto desenvolvido no âmbito da disciplina de Fundamentos de Robótica do curso de Engenharia de Instrumentação, Automação e Robótica da Universidade Federal do ABC (UFABC), ministrada pelo prof. Dr. Sandro L. Vatanabe, junto de meus colegas Gilmar C. Jerônimo e Ana Laura B. Claudio. 
 
 O projeto consiste de um software desenvolvido em MATLAB em que o usuário pode compor um manipulador robótico arbitrário de três juntas  e, em seguida, escolher de 2 a 5 conjuntos de posições lineares/angulares de juntas para simular a trajetória da extremidade final do manipulador ao se deslocar sequencialmente entre as posições definidas.
 
